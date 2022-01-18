@@ -1,7 +1,10 @@
 # cmsc11_tite
 Final Project for CMSC11
 
+Description:
+T.I.T.E. (Tight Information Technology Encryption)
 Created by Team Optimus Pride
+
 
 Developers:
 1. Parcon, Mary Nicolette
